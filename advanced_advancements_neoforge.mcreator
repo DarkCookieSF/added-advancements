@@ -1,0 +1,458 @@
+{
+  "mod_elements": [
+    {
+      "name": "ImRich",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_rich",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/im_rich.json"
+        ]
+      }
+    },
+    {
+      "name": "DoesAnyoneLikeThisBlock",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "does_anyone_like_this_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/does_anyone_like_this_block.json"
+        ]
+      }
+    },
+    {
+      "name": "FlyingBrain",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flying_brain",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/flying_brain.json"
+        ]
+      }
+    },
+    {
+      "name": "RottonFood",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rotton_food",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/rotton_food.json"
+        ]
+      }
+    },
+    {
+      "name": "BrokenGold",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_gold",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/broken_gold.json"
+        ]
+      }
+    },
+    {
+      "name": "BlackStone",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/black_stone.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepCaves",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_caves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/deep_caves.json"
+        ]
+      }
+    },
+    {
+      "name": "ImOut",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "im_out",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/im_out.json"
+        ]
+      }
+    },
+    {
+      "name": "Disc11Advancement",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_11_advancement",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/disc_11_advancement.json"
+        ]
+      }
+    },
+    {
+      "name": "Otherside",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "otherside",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/otherside.json"
+        ]
+      }
+    },
+    {
+      "name": "DrippedOut",
+      "type": "achievement",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dripped_out",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/dripped_out.json"
+        ]
+      }
+    },
+    {
+      "name": "Worksmith",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "worksmith",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/worksmith.json"
+        ]
+      }
+    },
+    {
+      "name": "DesolateWasteland",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desolate_wasteland",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/desolate_wasteland.json"
+        ]
+      }
+    },
+    {
+      "name": "BadLands",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bad_lands",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/bad_lands.json"
+        ]
+      }
+    },
+    {
+      "name": "CreeperAwMan",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeper_aw_man",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/creeper_aw_man.json"
+        ]
+      }
+    },
+    {
+      "name": "CreeperProcedure",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeper_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/advancedadvancementsneoforge/procedures/CreeperProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WardensHome",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wardens_home",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/wardens_home.json"
+        ]
+      }
+    },
+    {
+      "name": "StoragePlus",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storage_plus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/storage_plus.json"
+        ]
+      }
+    },
+    {
+      "name": "StoragePlusPlus",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storage_plus_plus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/storage_plus_plus.json"
+        ]
+      }
+    },
+    {
+      "name": "DimensionalStorage",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dimensional_storage",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/dimensional_storage.json"
+        ]
+      }
+    },
+    {
+      "name": "ColdStuff",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cold_stuff",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/cold_stuff.json"
+        ]
+      }
+    },
+    {
+      "name": "ColdSpikes",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cold_spikes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/cold_spikes.json"
+        ]
+      }
+    },
+    {
+      "name": "LightingProcedure",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lighting_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/advancedadvancementsneoforge/procedures/LightingProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OneInAFifteenThousandThreeHundred",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_in_a_fifteen_thousand_three_hundred",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/one_in_a_fifteen_thousand_three_hundred.json"
+        ]
+      }
+    },
+    {
+      "name": "AddedAdvancements",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "added_advancements",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/added_advancements.json"
+        ]
+      }
+    },
+    {
+      "name": "AddedAdvancementsProcedure",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "added_advancements_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/advancedadvancementsneoforge/procedures/AddedAdvancementsProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StrangePlants",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strange_plants",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/advanced_advancements_neoforge/advancements/strange_plants.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.storage_plus.title": "Storage+",
+      "advancements.im_out.title": "I\u0027m Out",
+      "advancements.cold_spikes.title": "Cold Spikes",
+      "advancements.deep_caves.title": "Deep Caves",
+      "advancements.worksmith.descr": "Get an anvil.",
+      "advancements.worksmith.title": "Worksmith",
+      "advancements.disc_11_advancement.title": "11",
+      "advancements.broken_gold.descr": "Get a gold pickaxe to have 1 durability left.",
+      "advancements.disc_11_advancement.descr": "Get disc 11.",
+      "advancements.storage_plus_plus.descr": "Get a shulker box.",
+      "advancements.black_stone.title": "Black Stone",
+      "advancements.does_anyone_like_this_block.title": "Does Anyone Even Like This Block?",
+      "advancements.bad_lands.title": "Bad Lands",
+      "advancements.storage_plus.descr": "Make a chest.",
+      "advancements.desolate_wasteland.descr": "Enter a desert.",
+      "advancements.strange_plants.title": "Strange Plants",
+      "advancements.dripped_out.title": "Dripped Out",
+      "advancements.cold_spikes.descr": "Enter the ice spikes biome.",
+      "advancements.wardens_home.title": "Warden\u0027s Home",
+      "advancements.creeper_aw_man.title": "Creeper... Aw man",
+      "advancements.rotton_food.title": "Rotten Food",
+      "advancements.added_advancements.descr": "You installed added advancements!",
+      "advancements.otherside.descr": "Get the otherside disc.",
+      "advancements.flying_brain.title": "Flying Brain",
+      "advancements.bad_lands.descr": "Enter the badlands.",
+      "advancements.rotton_food.descr": "Consume rotten flesh.",
+      "advancements.otherside.title": "Otherside",
+      "advancements.creeper_aw_man.descr": "So we back in the mine got our pickaxe swinging from side to side, side to side side. Get killed by a creeper",
+      "advancements.cold_stuff.title": "Cold Stuff",
+      "advancements.im_rich.descr": "Get a stack of netherite blocks.",
+      "advancements.dimensional_storage.descr": "Get an ender chest.",
+      "advancements.flying_brain.descr": "Kill a phantom and get a phantom membrane.",
+      "advancements.one_in_a_fifteen_thousand_three_hundred.title": "1 in 15,300",
+      "advancements.broken_gold.title": "Broken Gold",
+      "advancements.im_rich.title": "I\u0027m Rich!",
+      "advancements.one_in_a_fifteen_thousand_three_hundred.descr": "Get struck by lighting.",
+      "advancements.dimensional_storage.title": "Dimensional Storage",
+      "advancements.does_anyone_like_this_block.descr": "Get a stack of diorite.",
+      "advancements.desolate_wasteland.title": "Desolate Wasteland",
+      "advancements.cold_stuff.descr": "Fill a Bucket with water",
+      "advancements.black_stone.descr": "Get a piece of blackstone.",
+      "advancements.storage_plus_plus.title": "Storage++",
+      "advancements.deep_caves.descr": "Get a piece of deepslate.",
+      "advancements.im_out.descr": "Leave the nether.",
+      "advancements.wardens_home.descr": "Enter the deep dark.",
+      "advancements.strange_plants.descr": "Enter the mushroom fields.",
+      "advancements.added_advancements.title": "Added Advancements",
+      "advancements.dripped_out.descr": "Get a dripstone block."
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "advanced_advancements_neoforge",
+    "modName": "Advanced Advancements NeoForge",
+    "version": "1.0.0",
+    "author": "DarkCookieSF, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.advancedadvancementsneoforge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}
